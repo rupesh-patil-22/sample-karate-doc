@@ -1,0 +1,8 @@
+site_name: "sample-karate-doc"
+site_description: "sample-karate-doc"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
